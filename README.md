@@ -6,7 +6,10 @@
 -                          Email: ashishyadu1shi@gmail.com
 -                      Instagram: ashishyadu1shii
 -                      Telegram: @Ashishyadu1shii
--   
+# Delta-demo
+ this is demo
+ # Teacher
+ Shraddha khapra
 <!---
 ashishyadu1shi/ashishyadu1shi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
